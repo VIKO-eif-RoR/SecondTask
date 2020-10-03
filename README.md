@@ -18,8 +18,8 @@ Ruby kodas - ShellSort.rb.arb
 
 ## Andrej Miskelovič
 1)Letter Swap (Lowercase to Uppercase - Uppercase to Lowercase) realisation in C# and Ruby |
-Source code - letterswap.cs
+Source code - letterswap.cs |
 Ruby code - letterswap.rb
-2)Caesar Cipher realisation in C# and Ruby
-Source code - caesar.cs  
+2)Caesar Cipher realisation in C# and Ruby |
+Source code - caesar.cs |
 Ruby code - caesar.rb
